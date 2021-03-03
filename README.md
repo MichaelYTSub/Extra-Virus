@@ -1,4 +1,4 @@
-# Extra-Virus
+# Extra-Virus (Trashed)
 WARNING!
 
 DO NOT TRY THIS AT HOME ON REAL COMPUTER!
